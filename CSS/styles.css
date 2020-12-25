@@ -23,8 +23,9 @@
   }
 }*/
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 	.combocontainer {
+    background-color: blue;
 		display: block;
 		margin-top: 8rem;
 		margin-left: auto;
